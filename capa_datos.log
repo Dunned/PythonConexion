@@ -1,0 +1,111 @@
+09:41:34 AM: CRITICAL [logger_base.py:17] Mensaje a nivel critico
+09:42:18 AM: CRITICAL [logger_base.py:17] Mensaje a nivel critico
+09:57:44 AM: DEBUG [Persona.py:50] 
+            Id_persona=1,Nombre=Eduardo,
+            Apellido=Jauregui,Email: ejauregui@mail.com
+        
+09:58:36 AM: DEBUG [Persona.py:50] 
+            Id_persona=1,Nombre=Eduardo,
+            Apellido=Jauregui,Email: ejauregui@mail.com
+        
+09:59:35 AM: DEBUG [Persona.py:50] 
+            Id_persona=1,Nombre=Eduardo,
+            Apellido=Jauregui,Email: ejauregui@mail.com
+        
+09:59:35 AM: DEBUG [Persona.py:53] 
+            Id_persona=None,Nombre=Juan,
+            Apellido=Perez,Email: jperez@mail.com
+        
+09:59:49 AM: DEBUG [Persona.py:50] 
+            Id_persona=1,Nombre=Eduardo,
+            Apellido=Jauregui,Email: ejauregui@mail.com
+        
+09:59:49 AM: DEBUG [Persona.py:53] 
+            Id_persona=None,Nombre=Juan,
+            Apellido=Perez,Email: jperez@mail.com
+        
+09:59:49 AM: DEBUG [Persona.py:54] True
+09:59:56 AM: DEBUG [Persona.py:50] 
+            Id_persona=1,Nombre=Eduardo,
+            Apellido=Jauregui,Email: ejauregui@mail.com
+        
+09:59:56 AM: DEBUG [Persona.py:53] 
+            Id_persona=None,Nombre=Juan,
+            Apellido=Perez,Email: jperez@mail.com
+        
+09:59:56 AM: DEBUG [Persona.py:54] True
+10:48:06 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fa208278970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:48:17 AM: ERROR [Conexion.py:26] Ocurrio una excepcion: connection to server at "localhost" (::1), port 5432 failed: FATAL:  password authentication failed for user "postgres1"
+
+10:48:28 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fefa0080970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:48:43 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f94d8040970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:48:43 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7f94d80637c0; closed: 0>
+10:48:56 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fbec8298970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:48:56 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fbec82bb7c0; closed: 0>
+10:49:04 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fe5180a8970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:49:04 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fe5180cb7c0; closed: 0>
+10:49:11 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f9da0140970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:49:11 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7f9da01637c0; closed: 0>
+11:08:37 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f9ed00e4970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:08:37 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7f9e9013f7c0; closed: 0>
+11:08:37 AM: DEBUG [Perdona_DAO.py:36] 
+            Id_persona=19,Nombre=Gerardo,
+            Apellido=Romero,Email: gRomero@mail.com
+        
+11:08:37 AM: DEBUG [Perdona_DAO.py:36] 
+            Id_persona=26,Nombre=Carlos,
+            Apellido=Lara,Email: cLara@mail.com
+        
+11:08:37 AM: DEBUG [Perdona_DAO.py:36] 
+            Id_persona=27,Nombre=Ales,
+            Apellido=Rojas,Email: aRojas@mail.com
+        
+11:13:42 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fdc3806b970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:13:42 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fdc3808f7c0; closed: 0>
+11:13:42 AM: DEBUG [Perdona_DAO.py:36] Se inserto: 1 registros
+11:14:35 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fa9f006b970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:14:35 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fa9f008f7c0; closed: 0>
+11:14:35 AM: DEBUG [Perdona_DAO.py:36] Se inserto: 1 registros
+11:14:50 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fe798173970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:14:50 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fe7981977c0; closed: 0>
+11:14:50 AM: DEBUG [Perdona_DAO.py:36] Se inserto: 1 registros
+11:14:54 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fc6881eb970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:14:54 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fc68820f7c0; closed: 0>
+11:14:54 AM: DEBUG [Perdona_DAO.py:36] Se inserto: 1 registros
+11:15:10 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fd348143970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:15:10 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fd3481677c0; closed: 0>
+11:15:10 AM: DEBUG [Perdona_DAO.py:36] Se inserto: 1 registros
+11:16:10 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fe3b8073970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:16:10 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7fe3b80977c0; closed: 0>
+11:16:10 AM: DEBUG [Perdona_DAO.py:37] Se inserto: 1 registros
+11:20:08 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f9a48153970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:20:08 AM: DEBUG [Perdona_DAO.py:37] Persona insertada:  
+            Id_persona=None,Nombre=Fatina,
+            Apellido=Fiestas,Email: ffatima@mail.com
+        
+11:20:08 AM: DEBUG [Perdona_DAO.py:49] Se inserto: 1
+11:21:33 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7fd6e8083970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:21:33 AM: DEBUG [Perdona_DAO.py:37] Persona insertada:  
+            Id_persona=None,Nombre=Cristiano,
+            Apellido=Ronaldo,Email: CrisR@mail.com
+        
+11:21:33 AM: DEBUG [Perdona_DAO.py:49] Se inserto: 1
+11:30:01 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f97c0175970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:30:01 AM: DEBUG [Perdona_DAO.py:46] Persona actualizada 
+            Id_persona=35,Nombre=Lionel,
+            Apellido=Mesi,Email: lMessi@mail.com
+        
+11:30:01 AM: DEBUG [Perdona_DAO.py:61] Se actualizo: 1
+11:32:10 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7feb380b5970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:32:10 AM: DEBUG [PersonaDAO.py:46] Persona actualizada 
+            Id_persona=35,Nombre=Robert,
+            Apellido=Lewandosly,Email: rLewan@mail.com
+        
+11:32:10 AM: DEBUG [PersonaDAO.py:61] Se actualizo: 1
+11:34:52 AM: DEBUG [Conexion.py:23] Conexion Exitosa: <connection object at 0x7f9f0809d970; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:34:52 AM: DEBUG [Conexion.py:36] Se abrio correctamente el cursosr : <cursor object at 0x7f9f080bf7c0; closed: 0>
+11:34:52 AM: DEBUG [PersonaDAO.py:55] Se elimino 
+            Id_persona=35,Nombre=None,
+            Apellido=None,Email: None
+        
+11:34:52 AM: DEBUG [PersonaDAO.py:74] Se limino 1 registros
