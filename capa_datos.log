@@ -1,0 +1,266 @@
+12:15:48 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:19:24 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:19:24 PM: DEBUG [Conexion.py:40] Se obtuvo conexion
+12:21:01 PM: DEBUG [Conexion.py:37] Se obtuvo conexion
+12:21:01 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:21:28 PM: DEBUG [Conexion.py:37] Se obtuvo conexion
+12:21:28 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:21:36 PM: DEBUG [Conexion.py:37] Se obtuvo conexion
+12:21:36 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:21:56 PM: DEBUG [Conexion.py:37] Se obtuvo conexion
+12:21:56 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:22:54 PM: DEBUG [Conexion.py:37] Se obtuvo conexion
+12:22:54 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:24:51 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:24:51 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:24:51 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fc008120820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:08 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:25:08 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:08 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fe5980b0820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:08 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:08 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fe5980b0970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:08 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:08 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fe5980b0ac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:12 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:25:12 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:12 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fd318091820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:12 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:12 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fd318091970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:12 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:12 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fd318091ac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:12 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:12 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fd318091c10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:12 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:12 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fd318091d60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:16 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7f7cc85e7c10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:16 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7f7cc85e7d60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:16 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7f7cc85e7eb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:16 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7f7cb82b3040; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:16 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7f7cb82b3190; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:16 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fb588121820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fb588121970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fb588121ac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fb588121c10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:25:22 PM: DEBUG [Conexion.py:43] Se obtuvo conexion <connection object at 0x7fb588121d60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:25:22 PM: DEBUG [Conexion.py:41] Se obtuvo conexion
+12:28:01 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:28:01 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe4380fb820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:01 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe4380fb970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:01 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe4380fbac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:02 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe4380fbc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:35 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:28:35 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7faa9807b820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:35 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7faa9807b970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:35 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7faa9807bac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:35 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7faa9807bc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:35 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7faa9807bd60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:40 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:28:40 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fb2a017b820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:40 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fb2a017b970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:40 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fb2a017bac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:40 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fb2a017bc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:40 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fb2a017bd60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803b820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803b970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803bac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803bc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803bd60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:28:53 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:28:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe9c803beb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143ac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143c10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143d60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:07 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:29:07 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd640143eb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807b820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807b970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807bac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807bc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807bd60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:29:26 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fec6807beb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:26 PM: DEBUG [Conexion.py:48] Se libero todas las conexiones
+12:29:33 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113ac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113c10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113d60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:29:33 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc938113eb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:33 PM: DEBUG [Conexion.py:48] Se libero todas las conexiones
+12:29:43 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808b820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808b970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808bac0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808bc10; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808bd60; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:29:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fcf1808beb0; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:29:43 PM: DEBUG [Conexion.py:48] Se libero todas las conexiones
+12:42:05 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:42:05 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fdfc812f820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:42:05 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+12:42:05 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.UndefinedTable'>,relation "usuarios" does not exist
+LINE 1: SELECT * FROM usuarios
+                      ^
+,<class 'psycopg2.errors.UndefinedTable'>
+12:42:05 PM: DEBUG [Conexion.py:43] Se libero la conexion
+12:42:21 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+12:42:21 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f99d81e4820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+12:42:21 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+12:42:21 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.UndefinedTable'>,relation "usuarios" does not exist
+LINE 1: SELECT * FROM Usuarios
+                      ^
+,<class 'psycopg2.errors.UndefinedTable'>
+12:42:21 PM: DEBUG [Conexion.py:43] Se libero la conexion
+01:33:11 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+01:33:11 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f900834c820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+01:33:11 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+01:33:11 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.UndefinedTable'>,relation "usuarios" does not exist
+LINE 1: SELECT * FROM Usuarios
+                      ^
+,<class 'psycopg2.errors.UndefinedTable'>
+01:33:11 PM: DEBUG [Conexion.py:43] Se libero la conexion
+01:33:17 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+01:33:17 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fe6e0164820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+01:33:17 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+01:33:17 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.UndefinedTable'>,relation "persona" does not exist
+LINE 1: SELECT * FROM persona
+                      ^
+,<class 'psycopg2.errors.UndefinedTable'>
+01:33:17 PM: DEBUG [Conexion.py:43] Se libero la conexion
+01:34:27 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+01:34:27 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fbb38174820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+01:34:27 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+01:34:27 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.SyntaxError'>,syntax error at or near "'Usuarios'"
+LINE 1: SELECT * FROM public.'Usuarios'
+                             ^
+,<class 'psycopg2.errors.SyntaxError'>
+01:34:27 PM: DEBUG [Conexion.py:43] Se libero la conexion
+01:37:51 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+01:37:51 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7ff5b00a4820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+01:37:51 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+01:37:51 PM: DEBUG [CursorDelPool.py:30] [(1, 'Eduardo', '123456'), (2, 'Gerardo', '78596')]
+01:37:51 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+01:37:51 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:39:37 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:39:37 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f8b08047820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:39:37 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:39:37 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+02:39:37 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:39:53 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:39:53 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f83700e4820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:39:53 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:39:53 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+02:39:53 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:39:53 PM: DEBUG [UsuarioDAO.py:29] id_Usuario: 1, username: Eduardo, password=123456
+02:39:53 PM: DEBUG [UsuarioDAO.py:29] id_Usuario: 2, username: Gerardo, password=78596
+02:44:45 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:44:45 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fc3201c5820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:44:45 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:44:45 PM: DEBUG [UsuarioDAO.py:30] Se insertaron 1 registros
+02:44:45 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+02:44:45 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:48:47 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:48:47 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fef5026d820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:48:47 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:48:47 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.SyntaxError'>,syntax error at or near "'mbARRIOS99'"
+LINE 1: UPDATE usuarios SET nombre='Mariel',apellido'mbARRIOS99' WHE...
+                                                    ^
+,<class 'psycopg2.errors.SyntaxError'>
+02:48:47 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:49:06 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:49:06 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f7ec823d820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:49:06 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:49:06 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.SyntaxError'>,syntax error at or near "'mBarrios'"
+LINE 1: UPDATE usuarios SET nombre='Mariel',apellido'mBarrios' WHERE...
+                                                    ^
+,<class 'psycopg2.errors.SyntaxError'>
+02:49:06 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:49:43 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:49:43 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fbbc0125820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:49:43 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:49:43 PM: DEBUG [UsuarioDAO.py:37] Se actualizo 1 registros
+02:49:43 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+02:49:43 PM: DEBUG [Conexion.py:43] Se libero la conexion
+02:54:52 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+02:54:52 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f9f28146820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+02:54:52 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+02:54:52 PM: DEBUG [UsuarioDAO.py:44] Se elimino 1 registros
+02:54:52 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+02:54:52 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:06:44 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:06:44 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fde98195820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:06:44 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:06:44 PM: DEBUG [UsuarioDAO.py:30] Se insertaron 1 registros
+03:06:44 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:06:44 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:07:23 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:07:23 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fd120145820; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:07:23 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:07:23 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:07:23 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:07:57 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:07:57 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f7c40140970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:07:57 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:07:57 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:07:57 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:07:57 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 2, username: Gerardo, password=78596
+
+03:07:57 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 3, username: Mariel, password=mBarrios
+
+03:07:57 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 4, username: pepe, password=feef
+
+03:09:31 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:09:31 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7f80080a8970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:09:31 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:09:31 PM: ERROR [CursorDelPool.py:18] Se produjo un error , se hizo rollback <class 'psycopg2.errors.NotNullViolation'>,null value in column "username" of relation "usuarios" violates not-null constraint
+DETAIL:  Failing row contains (4, null, null).
+,<class 'psycopg2.errors.NotNullViolation'>
+03:09:31 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:11:27 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:11:27 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7fa7601aa970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:11:27 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:11:27 PM: DEBUG [UsuarioDAO.py:37] Se actualizo 1 registros
+03:11:27 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:11:27 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:13:03 PM: DEBUG [Conexion.py:26] Pool Obtenido satisfactoriamente
+03:13:03 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7ff7500a8970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:13:03 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:13:03 PM: DEBUG [UsuarioDAO.py:44] Se elimino 1 registros
+03:13:03 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:13:03 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:13:29 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7ff7500a8970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:13:29 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:13:29 PM: DEBUG [UsuarioDAO.py:30] Se insertaron 1 registros
+03:13:29 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:13:29 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:13:31 PM: DEBUG [Conexion.py:37] Se obtuvo conexion <connection object at 0x7ff7500a8970; dsn: 'user=postgres password=xxx dbname=lab_Pool host=localhost port=5432', closed: 0>
+03:13:31 PM: DEBUG [CursorDelPool.py:12] Dsde metodo enter cursor
+03:13:31 PM: DEBUG [CursorDelPool.py:21] Se hizo commit
+03:13:31 PM: DEBUG [Conexion.py:43] Se libero la conexion
+03:13:31 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 2, username: Gerardo, password=78596
+
+03:13:31 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 3, username: Mariel, password=mBarrios
+
+03:13:31 PM: DEBUG [MenuAppUsuario.py:22] id_Usuario: 5, username: Lionel, password=messi
+
